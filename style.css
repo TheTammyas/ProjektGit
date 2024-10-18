@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.nadpis{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    text-shadow: 0 0 12px white;
+    margin-right: 1em;
+}
+nav{
+    width: 100%;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    padding: 10px 20px;
+    text-shadow: 0 0 12px white;
+    text-decoration: none;
+}
