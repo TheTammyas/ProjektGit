@@ -23,3 +23,19 @@ nav a{
     text-shadow: 0 0 12px white;
     text-decoration: none;
 }
+
+.kontakty{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    padding-top: 10em;
+    text-shadow: 0 0 12px white;
+    text-decoration: none;
+}
+.kniha{
+    width: 500px;
+    height: 1000px;
+    display:block;
+    margin-left: auto;
+}
